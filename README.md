@@ -1,6 +1,4 @@
-# Interviews
-> Your personal guide to Software Engineering technical interviews.
->
+# Base Knowledge
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
 ## Translations
